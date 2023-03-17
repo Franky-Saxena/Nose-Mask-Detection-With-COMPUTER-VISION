@@ -1,6 +1,6 @@
 # Nose-Mask-Detection-With-COMPUTER-VISION
 
-Through project we want to solve the problem of any of the organization. 
+Through this project we want to solve the day to day problem of any of the organization. 
 
 At the time of Covid-19 Government of India were doing mask compulsory. So aim to order's of GoI I just created the model which is very much capable of predicting that a person in wearing mask or not.
 
