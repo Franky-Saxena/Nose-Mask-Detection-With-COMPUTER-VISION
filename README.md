@@ -49,4 +49,3 @@ jupyter notebook(in the main directory)
 ## Demo
 
 ![App Screenshot](https://raw.githubusercontent.com/Franky-Saxena/Nose-Mask-Detection-With-COMPUTER-VISION/main/Untitled1.png)
-![App Screenshot](https://raw.githubusercontent.com/Franky-Saxena/Nose-Mask-Detection-With-COMPUTER-VISION/main/Untitled2.png)
